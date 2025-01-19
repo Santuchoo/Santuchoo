@@ -1,7 +1,24 @@
-Hi, i'm Santucho.
-I hate bugs 🐛
+Young. -18
+On the way to be Full-stack web developer.
 
-<!---
-Santuchoo/Santuchoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Known skills:
+2️⃣0️⃣2️⃣4️⃣: 
+  Python [🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥] 100% - EXPERT
+
+2️⃣0️⃣2️⃣5️⃣:
+  HTML: [🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜] 40% - Learning, basic knowdledge
+  CSS: [🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜] 25% - Learning, basic knowdledge
+  JAVASCRIPT: [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] < 10% - After fully learning html and css
+
+Goals:
+-  SQL
+-  MYSQL
+-  ANGULAR
+-  REACT
+-  NODEJS
+-  GIT
+-  PHP
+-  TAILWIND
+-  C1 (advanced level) of english
+
+(still a lot to work with)
