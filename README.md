@@ -19,6 +19,6 @@ Goals:
 -  GIT
 -  PHP
 -  TAILWIND
--  C1 (advanced level) of english
+-  C1 ENGLISH (advanced)
 
 (still a lot to work with)
