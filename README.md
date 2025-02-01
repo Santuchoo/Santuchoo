@@ -3,22 +3,21 @@ On the way to be Full-stack web developer.
 
 Known skills:
 2️⃣0️⃣2️⃣4️⃣: 
-  Python [🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥] 100% - EXPERT
+  Python - Advanced, OOP
 
 2️⃣0️⃣2️⃣5️⃣:
-  HTML: [🟥🟥🟥🟥⬜⬜⬜⬜⬜⬜] 40% - Learning, basic knowdledge
-  CSS: [🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜] 25% - Learning, basic knowdledge
-  JAVASCRIPT: [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] < 10% - After fully learning html and css
+  HTML - Advanced
+  CSS - Advanced, intermediate responsive design
+  JAVASCRIPT - After fully learning html and css
 
 Goals:
--  SQL
--  MYSQL
--  ANGULAR
 -  REACT
+-  SQL
 -  NODEJS
--  GIT
--  PHP
 -  TAILWIND
+-  GIT
+-  ANGULAR
+-  PHP
 -  C1 ENGLISH (advanced)
 
 (still a lot to work with)
