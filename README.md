@@ -7,7 +7,9 @@ Known skills:
 
 2️⃣0️⃣2️⃣5️⃣:
   HTML - Advanced
-  CSS - Advanced, intermediate responsive design
+  CSS - Advanced
+  GIT - Intermediate - Advanced
+  GITHUB - Basic
   JAVASCRIPT - After fully learning html and css
 
 Goals:
@@ -15,9 +17,8 @@ Goals:
 -  SQL
 -  NODEJS
 -  TAILWIND
--  GIT
 -  ANGULAR
--  PHP
+-  ASTRO
 -  C1 ENGLISH (advanced)
 
 (still a lot to work with)
