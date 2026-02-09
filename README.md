@@ -1,14 +1,14 @@
 Young. -18
 On the way to be Full-stack web developer.
 
-SKILLS: HTML, CSS, JAVASCRIPT, GIT, GITHUB, VSCODE, BASIC B1 ENGLISH
+SKILLS: HTML, CSS, JAVASCRIPT, GIT, GITHUB, VSCODE, B1+ ENGLISH
 
 Goals:
 -  REACT
 -  NODEJS
 -  TAILWIND
+-  C1 ENGLISH
 -  ASTRO
 -  SQL
--  B2 ENGLISH
 
 (still a lot to work with)
