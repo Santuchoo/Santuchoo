@@ -16,5 +16,5 @@ Goals:
 -  C1 ENGLISH
 -  ASTRO
 -  SQL
-And whatever you need...
->_ Always willing to keep learning
+> And whatever you need...
+> Always willing to keep learning
