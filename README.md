@@ -1,6 +1,6 @@
 npm install santucho@latest
 SKILLS:
-- <HTML></HTML>
+- <div>HTML</div>
 - .CSS {}
 - const JAVASCRIPT = ()=> {}
 - if PYTHON:
