@@ -1,7 +1,13 @@
-Young. -18
-On the way to be Full-stack web developer.
-
-SKILLS: HTML, CSS, JAVASCRIPT, PYTHON, GIT, GITHUB, VSCODE, B1+ ENGLISH
+npm install santucho@latest
+SKILLS:
+- <HTML></HTML>
+- .CSS {}
+- const JAVASCRIPT = ()=> {}
+- if PYTHON:
+- GIT push origin
+- GITHUB
+- VSCODE
+- B1+ ENGLISH
 
 Goals:
 -  REACT
@@ -10,5 +16,5 @@ Goals:
 -  C1 ENGLISH
 -  ASTRO
 -  SQL
-
-(still a lot to work with)
+And whatever you need...
+>_ Always willing to keep learning
