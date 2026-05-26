@@ -4,17 +4,16 @@ SKILLS:
 - .CSS {}
 - const JAVASCRIPT = ()=> {}
 - if PYTHON:
+- span class="flex justify-center bg-sky-200" Tailwind [Learning]
+- React.jsx [Learning]
 - GIT push origin
 - GITHUB
 - VSCODE
 - B1+ ENGLISH
 
 Goals:
--  REACT
--  NODEJS
--  TAILWIND
 -  C1 ENGLISH
 -  ASTRO
--  SQL
+-  GSAP
 > And whatever you need...
 > Always willing to keep learning
