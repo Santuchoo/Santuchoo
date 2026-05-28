@@ -2,9 +2,9 @@ npm install santucho@latest
 SKILLS:
 - HTML </>
 - .CSS {}
+- @import "tailwindcss";
 - const JAVASCRIPT = ()=> {}
 - if PYTHON:
-- span class="flex justify-center bg-sky-200" Tailwind [Learning]
 - React.jsx [Learning]
 - GIT push origin
 - GITHUB
@@ -14,6 +14,7 @@ SKILLS:
 Goals:
 -  C1 ENGLISH
 -  ASTRO
+-  TypeScript
 -  GSAP
 > And whatever you need...
 > Always willing to keep learning
